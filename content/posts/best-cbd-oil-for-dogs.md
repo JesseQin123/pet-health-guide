@@ -1,10 +1,12 @@
 ---
-title: "Best CBD Oil for Dogs (2024): Top 5 Picks Reviewed"
-description: "A comprehensive comparison of the top-rated CBD oils for dogs — covering potency, ingredients, third-party testing, and value. Updated January 2024."
-date: "2024-01-10"
+title: "Best CBD Oil for Dogs (2026): Top 5 Picks Reviewed"
+description: "A comprehensive comparison of the top-rated CBD oils for dogs — covering potency, ingredients, third-party testing, and value. Updated 2026."
+date: "2026-08-26"
 tags: ["CBD Reviews", "Buying Guide"]
 author: "Pet Health Guide Team"
 ---
+
+> **FTC Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you. All products were evaluated independently based on third-party testing and ingredient quality.
 
 Finding the right CBD oil for your dog can be overwhelming. There are hundreds of brands, wildly varying prices, and limited regulation. We reviewed the top 5 options based on third-party testing, ingredient quality, potency, and real-world results.
 
@@ -12,19 +14,19 @@ Finding the right CBD oil for your dog can be overwhelming. There are hundreds o
 
 ## Quick Comparison
 
-| Brand | Potency | Price | Commission | Rating |
-|-------|---------|-------|------------|--------|
-| HolistaPet | 150–3000mg | $$$ | 35% | ⭐⭐⭐⭐½ |
-| Innovet Pet | 125–500mg | $$ | 20–40% | ⭐⭐⭐⭐ |
-| CBDistillery | 150–1800mg | $$ | 20% | ⭐⭐⭐⭐ |
-| Medterra | 150–3000mg | $$ | 25% | ⭐⭐⭐½ |
-| Charlotte's Web | 200–1500mg | $$$ | 15% | ⭐⭐⭐½ |
+| Brand | Potency | Price | Rating |
+|-------|---------|-------|--------|
+| HolistaPet | 150–3000mg | $$$ | ⭐⭐⭐⭐½ |
+| Innovet Pet | 125–500mg | $$ | ⭐⭐⭐⭐ |
+| CBDistillery | 150–1800mg | $$ | ⭐⭐⭐⭐ |
+| Medterra | 150–3000mg | $$ | ⭐⭐⭐½ |
+| Charlotte's Web | 200–1500mg | $$$ | ⭐⭐⭐½ |
 
 ---
 
 ## #1 HolistaPet — Best Overall
 
-**[→ Shop HolistaPet](https://www.holistapet.com)** *(35% affiliate commission)*
+<a href="https://www.holistapet.com/?ref=petguide" rel="nofollow sponsored" target="_blank">→ Shop HolistaPet</a>
 
 HolistaPet tops our list for consistent quality, full transparency with COAs, and a product range that covers dogs from 5–150+ lbs. Their organic, CO2-extracted, full-spectrum oil has helped thousands of dogs with anxiety, arthritis, and seizures.
 
@@ -34,7 +36,7 @@ HolistaPet tops our list for consistent quality, full transparency with COAs, an
 
 ## #2 Innovet Pet — Best for Vet-Recommended
 
-**[→ Shop Innovet Pet](https://www.innovetpet.com)** *(20–40% affiliate commission)*
+<a href="https://www.innovetpet.com/?ref=petguide" rel="nofollow sponsored" target="_blank">→ Shop Innovet Pet</a>
 
 Innovet is widely recommended by holistic vets and carries a nano-emulsified CBD line for better bioavailability. Their CBDA (raw cannabidiolic acid) products are unique in the market and show promising research results.
 
@@ -79,6 +81,8 @@ Never buy CBD without a Certificate of Analysis (COA) from an independent lab. I
 ### 3. Calculate the Right Dose
 General starting point: **0.2mg CBD per pound of body weight**, twice daily. For a 50-lb dog: 10mg per dose.
 
+See our full [CBD dosage guide by weight](/blog/cbd-dosage-dogs-weight-chart) for a complete chart.
+
 ### 4. Watch for Side Effects
 CBD is generally well-tolerated. Possible side effects include mild sedation, dry mouth, or lowered blood pressure. Start low and increase gradually.
 
@@ -88,8 +92,6 @@ CBD is generally well-tolerated. Possible side effects include mild sedation, dr
 
 For most dog owners, **HolistaPet** offers the best combination of quality, potency options, and transparency. For vet-recommended formulations, **Innovet Pet** is our runner-up.
 
-**[→ Try HolistaPet — 30-day guarantee](https://www.holistapet.com)**
+<a href="https://www.holistapet.com/?ref=petguide" rel="nofollow sponsored" target="_blank">→ Try HolistaPet — 30-day money-back guarantee</a>
 
----
-
-*Affiliate disclosure: Links in this post are affiliate links. We earn a commission at no cost to you.*
+**See also:** [HolistaPet vs Innovet: Head-to-Head Comparison](/blog/holistapet-vs-innovet-cbd-dogs) | [Best CBD for Dogs Under $50](/blog/best-cbd-oil-dogs-under-50)

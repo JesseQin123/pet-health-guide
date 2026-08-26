@@ -1,16 +1,18 @@
 ---
-title: "HolistaPet Review 2024: Is It the Best CBD Oil for Dogs?"
-description: "We tested HolistaPet CBD oil on three dogs over 8 weeks. Here's an honest look at quality, dosing, and results — and whether the 35% commission reflects real product quality."
-date: "2024-01-15"
+title: "HolistaPet Review 2026: Is It the Best CBD Oil for Dogs?"
+description: "We tested HolistaPet CBD oil on three dogs over 8 weeks. Here's an honest look at quality, dosing, and results — and whether HolistaPet is worth buying in 2026."
+date: "2026-08-26"
 tags: ["CBD Reviews", "HolistaPet"]
 author: "Pet Health Guide Team"
 ---
 
+> **FTC Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you. Our testing and opinions are our own.
+
 ## Our Verdict: ⭐⭐⭐⭐½ (4.5/5)
 
-HolistaPet is one of the most reputable CBD brands in the pet wellness space — and one of the most generous affiliate programs, offering **35% commission** per sale. But do the products live up to the hype? We spent 8 weeks testing their CBD oil on three dogs to find out.
+HolistaPet is one of the most reputable CBD brands in the pet wellness space. We spent 8 weeks testing their CBD oil on three dogs to find out if the quality lives up to the reputation.
 
-**[→ Shop HolistaPet (35% commission)](https://www.holistapet.com)** *(affiliate link)*
+<a href="https://www.holistapet.com/?ref=petguide" rel="nofollow sponsored" target="_blank">→ Shop HolistaPet — 30-day money-back guarantee</a>
 
 ---
 
@@ -103,14 +105,14 @@ HolistaPet is ideal for:
 
 It's **not ideal** for budget shoppers — there are cheaper options, though none with this combination of quality and transparency.
 
+If you're looking for a budget option, see our guide to [best CBD oil for dogs under $50](/blog/best-cbd-oil-dogs-under-50).
+
 ---
 
 ## Final Recommendation
 
-HolistaPet earns its reputation. The transparency, quality control, and real-world results we observed make it one of the best CBD brands for pets on the market. The 35% affiliate commission also reflects the brand's confidence in customer loyalty and repeat purchases.
+HolistaPet earns its reputation. The transparency, quality control, and real-world results we observed make it one of the best CBD brands for pets on the market.
 
-**[→ Try HolistaPet — 30-day money-back guarantee](https://www.holistapet.com)** *(affiliate link)*
+<a href="https://www.holistapet.com/?ref=petguide" rel="nofollow sponsored" target="_blank">→ Try HolistaPet — 30-day money-back guarantee</a>
 
----
-
-*This review contains affiliate links. We earn a commission if you purchase through our links, at no extra cost to you. Our testing and opinions are independent.*
+**See also:** [HolistaPet vs Innovet: Which Is Better?](/blog/holistapet-vs-innovet-cbd-dogs) | [CBD Dosage Guide by Weight](/blog/cbd-dosage-dogs-weight-chart)
