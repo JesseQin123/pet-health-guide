@@ -2,6 +2,11 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
+export interface FAQ {
+  question: string;
+  answer: string;
+}
+
 export interface PostMeta {
   slug: string;
   title: string;
@@ -10,6 +15,7 @@ export interface PostMeta {
   tags: string[];
   image?: string;
   author?: string;
+  faqs?: FAQ[];
 }
 
 export interface Post extends PostMeta {
@@ -48,6 +54,7 @@ export function getPostMeta(slug: string): PostMeta | null {
     tags: data.tags ?? [],
     image: data.image,
     author: data.author ?? "Pet Health Guide Team",
+    faqs: Array.isArray(data.faqs) ? data.faqs : undefined,
   };
 }
 
@@ -66,6 +73,7 @@ export function getPost(slug: string): Post | null {
     tags: data.tags ?? [],
     image: data.image,
     author: data.author ?? "Pet Health Guide Team",
+    faqs: Array.isArray(data.faqs) ? data.faqs : undefined,
     content,
   };
 }
