@@ -3,8 +3,9 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID ?? "G-XXXXXXXXXX";
+const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? process.env.NEXT_PUBLIC_GA_ID ?? "G-XXXXXXXXXX";
 const ADSENSE_PUB = process.env.NEXT_PUBLIC_ADSENSE_PUB ?? "ca-pub-XXXXXXXXXXXXXXXX";
+const GSC_TOKEN = process.env.NEXT_PUBLIC_GSC_VERIFICATION ?? "";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://pethealthguide.com"),
@@ -58,6 +59,9 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
+  },
+  verification: {
+    google: GSC_TOKEN || undefined,
   },
 };
 

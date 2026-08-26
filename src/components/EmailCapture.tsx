@@ -1,5 +1,20 @@
 "use client";
 
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void;
+  }
+}
+
+function fireNewsletterSignup() {
+  if (typeof window !== "undefined" && window.gtag) {
+    window.gtag("event", "newsletter_signup", {
+      page: window.location.pathname,
+    });
+  }
+  window.open("https://buttondown.com/pethealthguide", "popupwindow");
+}
+
 export default function EmailCapture({ heading = "Get our free pet wellness newsletter" }: { heading?: string }) {
   return (
     <div className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6 sm:p-8 text-center">
@@ -14,12 +29,7 @@ export default function EmailCapture({ heading = "Get our free pet wellness news
         action="https://buttondown.com/api/emails/embed-subscribe/pethealthguide"
         method="post"
         target="popupwindow"
-        onSubmit={() =>
-          window.open(
-            "https://buttondown.com/pethealthguide",
-            "popupwindow"
-          )
-        }
+        onSubmit={fireNewsletterSignup}
         className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
       >
         <input
